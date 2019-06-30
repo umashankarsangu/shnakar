@@ -1,0 +1,12 @@
+i tried a lot to get in to git
+i tried for git add .
+it showed warning as it accepts LF will be replaced by CRLF in Somefile.
+lf:line feed
+crlf:carriage line feed
+2.git commit asked me for username and email
+as it is git config --global user.name "shankar"
+git config --global user.eamil "umashankar.sangu6@gmail.com"
+3.while i tried for git push it asked me to login in git
+so i logged in with my credentials
+so at last i am able gone through the git
+
